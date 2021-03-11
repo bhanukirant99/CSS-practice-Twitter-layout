@@ -36,7 +36,6 @@ main {
     border-left: 0.9px solid var(--border-color);
     border-right: 0.9px solid var(--border-color);
     grid-area: middle;
-    height: 100vh;
 }
 
 .right__pane {
@@ -601,8 +600,4 @@ main {
 
 .btn__follow:focus {
     outline: none;
-}
-
-* {
-    font-size: 1rem;
 }
