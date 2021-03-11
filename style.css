@@ -602,3 +602,7 @@ main {
 .btn__follow:focus {
     outline: none;
 }
+
+* {
+    font-size: 1rem;
+}
